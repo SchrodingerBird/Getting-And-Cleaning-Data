@@ -3,7 +3,7 @@ Project of Getting and Cleaning Data Course in Coursera
 
 This Readme file is a instuction for the source file run_analysis.R 
 
-1. unzip the data source from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+1. get and unzip the data source from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 2. before runing the run_analysis.R in the RStudio, you may set your working directory to ./UCI HAR Dataset
 
