@@ -1,6 +1,6 @@
 # 1. Merges the training and the test sets to create one data set.
 
-setwd("E:/Coursera/Getting and Cleaning Data/Project/UCI HAR Dataset")
+# setwd("E:/Coursera/Getting and Cleaning Data/Project/UCI HAR Dataset")
 
 train_Set <- read.table("./train/X_train.txt") # read training set (7352 obs * 561 vars)
 train_Label <- read.table("./train/y_train.txt") 
